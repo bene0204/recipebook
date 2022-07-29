@@ -1,0 +1,10 @@
+.btn {
+  margin: 0 1rem 0 0;
+}
+
+input.ng-invalid.ng-touched,
+#amount.ng-invalid {
+  border: 1px solid red;
+  background: rgb(255,0,0,0.4);
+  color: white;
+}

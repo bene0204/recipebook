@@ -1,0 +1,7 @@
+.btn {
+  margin-right: 1rem;
+}
+
+input.ng-invalid.ng-touched {
+  border: 2px solid darkred;
+}
